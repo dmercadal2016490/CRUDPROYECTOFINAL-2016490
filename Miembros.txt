@@ -1,1 +1,2 @@
-Diego Rodrigo Mercadal Reyes - 2016490: Union del proyecto y diseño con bootrap
+Diego Rodrigo Mercadal Reyes - 2016490: Union del proyecto y diseño con bootrap;
+Jeffrey Daniel Mejia Solis-2016037: Implementacion del controlador "Editar y eliminar" 
