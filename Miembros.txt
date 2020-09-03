@@ -3,3 +3,4 @@ Jeffrey Daniel Mejia Solis-2016037: Implementacion del controlador "Editar y eli
 Jose Luis Luna Coj - 2016366: Modelo de datos;
 Alvaro Jesús Flores Pérez - 2016579: Creación de base de datos, Creación de Vistas;
 Jefferson Estuardo García Quijivix - 2016377: Creación de vistas;
+Bryan Denilson Garcia Alvizures - 2017489: Creacion de la Aplicacion y la Estructura;
