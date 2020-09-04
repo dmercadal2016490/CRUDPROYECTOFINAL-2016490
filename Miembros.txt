@@ -1,1 +1,6 @@
-Diego Rodrigo Mercadal Reyes - 2016490: Union del proyecto y diseño con bootrap
+Alvaro Jesús Flores Pérez - 2016579: Creación de base de datos, Creación de Vistas; 
+Jefferson Estuardo García Quijivix - 2016377: Creación de vistas; 
+Bryan Denilson Garcia Alvizures - 2017489: Creacion de la Aplicacion y la Estructura; 
+Marcos Daniel García Recinos - 2019003; Interfaz y colaboración de vistas; 
+Victor Manuel Laynez Ceto - 2016100; Implementar en el servlet el crud;
+Josué René Gómez Tún - 2016165; Implementar el archivo de configuración(conexión de base de datos).
