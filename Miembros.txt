@@ -4,3 +4,4 @@ Bryan Denilson Garcia Alvizures - 2017489: Creacion de la Aplicacion y la Estruc
 Marcos Daniel García Recinos - 2019003; Interfaz y colaboración de vistas; 
 Victor Manuel Laynez Ceto - 2016100; Implementar en el servlet el crud;
 Josué René Gómez Tún - 2016165; Implementar el archivo de configuración(Conexión de Base de Datos)
+José David Marín Mijangos - 2016570; Modelo DAO;
